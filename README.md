@@ -51,6 +51,43 @@ A. Halaman Login
 Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
 ![Screenshot 2025-07-01 180450](https://github.com/user-attachments/assets/5c7affaf-a8e8-44ea-b88e-54b937eb1ce1)
 
+B. Halaman Beranda
+
+Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
+![Screenshot 2025-07-01 193049](https://github.com/user-attachments/assets/62a67f87-68e6-4d4c-b660-ae2c34949554)
+
+C. Halaman Kelola Artikel
+
+Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
+![Screenshot 2025-07-01 193112](https://github.com/user-attachments/assets/fc8fb7f8-94a0-4fde-b94e-32c97a8d062d)
+![Screenshot 2025-07-01 193504](https://github.com/user-attachments/assets/15b2edae-f0a1-4287-8f16-dfa9bf501ea6)
+![Screenshot 2025-07-01 193526](https://github.com/user-attachments/assets/b8260d2a-93b7-4dad-a3be-331512020167)
+
+D. Halaman Kelola Gallery
+
+Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
+![Screenshot 2025-07-01 193134](https://github.com/user-attachments/assets/3acb222a-1fa1-43a9-bcfe-291809b0d131)
+![Screenshot 2025-07-01 193723](https://github.com/user-attachments/assets/17fec919-3563-4070-947e-29d38f88ce76)
+![Screenshot 2025-07-01 193739](https://github.com/user-attachments/assets/4b68ce27-d66b-49fc-a9cc-153408d761e6)
+
+E. Halaman About
+
+Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
+![Screenshot 2025-07-01 193155](https://github.com/user-attachments/assets/02b25e68-afaa-4d2e-81b9-633e9d1ed2a7)
+![Screenshot 2025-07-01 193835](https://github.com/user-attachments/assets/844fd0d9-8564-4138-8b12-08a80a9e5ea3)
+![Screenshot 2025-07-01 193854](https://github.com/user-attachments/assets/0b9647d4-d486-4683-82bc-a2a9c8a60b7f)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
